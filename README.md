@@ -2,13 +2,13 @@
 <h3 align="center">IT & Cybersecurity Professional | Linux Admin | Defensive Security Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://linkedin.com/in/hashim-k-m">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:hashimkm2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME/Projects">
+  <a href="https://github.com/hashimkm-sec/Projects">
     <img src="https://img.shields.io/badge/Projects_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
 </p>
@@ -84,15 +84,6 @@ I'm an IT and cybersecurity professional passionate about **network infrastructu
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashimkm-sec&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimkm-sec&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
