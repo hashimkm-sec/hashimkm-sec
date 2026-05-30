@@ -44,7 +44,7 @@ I'm an IT and cybersecurity professional passionate about **network infrastructu
 
 | Project | Description |
 |--------|-------------|
-| 🔧 [**Automated Linux Backup System**](https://github.com/hashimkm-sec/Projects/automated-directory-backup) | A Bash-based automated backup solution with scheduling, logging, and retention policies |
+| 🔧 [**Automated Linux Backup System**](https://github.com/hashimkm-sec/Projects/tree/3da5808dec43ff76e5f5938ffa3db71c19266b7d/automated-directory-backup) | A Bash-based automated backup solution with scheduling, logging, and retention policies |
 
 > 📂 Explore all my hands-on technical work in my [**Projects Repository →**](https://github.com/hashimkm-sec/Projects)
 
