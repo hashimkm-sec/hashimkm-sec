@@ -129,6 +129,8 @@ $ cat profile.txt
       <br/><br/>
       <img src="https://img.shields.io/badge/EC--Council-CC0000?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/Certified-2ea44f?style=flat-square"/>
+      <br/>
+      <sub>🔖 Cert No: <code>ECC4510837296</code></sub>
     </td>
   </tr>
 </table>
